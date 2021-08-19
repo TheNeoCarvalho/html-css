@@ -36,6 +36,18 @@ git add .
 git commit -m "msg"
 ```
 
+## Trocando de Branch
+
+```
+git checkout nome
+```
+
+## Criando uma Branch
+
+```
+git checkout -b nome
+```
+
 <hr>
 
 # Github
