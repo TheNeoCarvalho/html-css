@@ -48,6 +48,12 @@ git checkout nome
 git checkout -b nome
 ```
 
+# JUntando branch
+
+```
+git merge nome_branch
+```
+
 <hr>
 
 # Github
